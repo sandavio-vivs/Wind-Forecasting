@@ -8,3 +8,5 @@ df = df.drop_duplicates(subset=['timestamp'], keep='first')
 #print(df.duplicated().sum())  # Should print 0
 
 print('testing if i can write anything i want here')
+
+print('hellloow')
